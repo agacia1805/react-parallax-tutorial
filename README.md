@@ -1,1 +1,1 @@
-# react-parallax-tutorial
+# React Parallax Tutorial
